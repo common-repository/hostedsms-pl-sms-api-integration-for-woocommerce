@@ -1,0 +1,5 @@
+{
+    "require": {
+        "dcs-pl/hostedsms-php": "^1.0"
+    }
+}

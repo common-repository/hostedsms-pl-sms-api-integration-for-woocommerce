@@ -1,0 +1,6 @@
+# Ignore config Composer files
+/composer.lock
+/vendor/
+
+# Ignore endpoint testing file
+**/form.php

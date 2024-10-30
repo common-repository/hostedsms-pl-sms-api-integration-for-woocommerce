@@ -1,0 +1,129 @@
+# Copyright (C) 2024 dcs.pl
+# This file is distributed under the GPLv3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: HostedSMS.pl - SMS API integration for WooCommerce 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/hostedsms-pl-sms-api-integration-for-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-09-09T10:01:20+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: hostedsms-pl-sms-api-integration-for-woocommerce\n"
+
+#. Plugin Name of the plugin
+msgid "HostedSMS.pl - SMS API integration for WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid "Wtyczka służy do wysyłania powiadomień SMS o zmianach statusów do klientów sklepu opartego o WooCommerce dla WordPress. Możliwe jest skonfigurowanie powiadomień o zmianach dla 4 rodzajów statusów sklepu WooCommerce."
+msgstr ""
+
+#. Author of the plugin
+msgid "dcs.pl"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://dcs.pl/pl"
+msgstr ""
+
+#: class-wc-hostedSMS-integration.php:34
+msgid "HostedSMS"
+msgstr ""
+
+#: class-wc-hostedSMS-integration.php:35
+msgid "Ustawienia wtyczki HostedSMS."
+msgstr ""
+
+#: class-wc-hostedSMS-integration.php:36
+msgid "Status zamówienia {number} został zmieniony"
+msgstr ""
+
+#: class-wc-hostedSMS-integration.php:115
+msgid "Nieprawidłowe dane logowania"
+msgstr ""
+
+#: class-wc-hostedSMS-integration.php:117
+msgid "Nie udało się zalogwać"
+msgstr ""
+
+#: class-wc-hostedSMS-integration.php:197
+msgid "Wysyłaj notyfikacje SMS"
+msgstr ""
+
+#: class-wc-hostedSMS-integration.php:201
+msgid "Login"
+msgstr ""
+
+#: class-wc-hostedSMS-integration.php:203
+msgid "Login do serwisu HostedSMS."
+msgstr ""
+
+#: class-wc-hostedSMS-integration.php:208
+msgid "Hasło"
+msgstr ""
+
+#: class-wc-hostedSMS-integration.php:210
+msgid "Hasło do serwisu HostedSMS."
+msgstr ""
+
+#: class-wc-hostedSMS-integration.php:215
+msgid "Nadawca"
+msgstr ""
+
+#: class-wc-hostedSMS-integration.php:218
+msgid "Aby zobaczyć dostępnych nadawców wypełnij dane logowania i zapisz zmiany."
+msgstr ""
+
+#: class-wc-hostedSMS-integration.php:223
+msgid "Wymagana zgoda na SMS"
+msgstr ""
+
+#: class-wc-hostedSMS-integration.php:224
+msgid "Wyświetl okno zgody na otrzymywanie SMS przy składaniu zamówienia"
+msgstr ""
+
+#: class-wc-hostedSMS-integration.php:228
+msgid "Treść okna zgody na SMS"
+msgstr ""
+
+#: class-wc-hostedSMS-integration.php:230
+msgid "Wyrażam zgodę na otrzymawanie wiadomości SMS"
+msgstr ""
+
+#: class-wc-hostedSMS-integration.php:234
+msgid "Status 1"
+msgstr ""
+
+#: class-wc-hostedSMS-integration.php:235
+#: class-wc-hostedSMS-integration.php:256
+#: class-wc-hostedSMS-integration.php:271
+#: class-wc-hostedSMS-integration.php:286
+msgid "Wysyłaj notyfikacje SMS przy zmianie na status:"
+msgstr ""
+
+#: class-wc-hostedSMS-integration.php:243
+#: class-wc-hostedSMS-integration.php:264
+#: class-wc-hostedSMS-integration.php:279
+#: class-wc-hostedSMS-integration.php:294
+msgid "Treść wiadomości SMS"
+msgstr ""
+
+#: class-wc-hostedSMS-integration.php:246
+msgid "Dla konkretnego zamówienia, dostępne są następujące parametry:<br>{number} - numer zamówienia<br>{phone} - numer telefonu<br>{customer_first_name} - imię klienta<br>{customer_last_name} - nazwisko klienta<br>{total} - suma zamówienia, np. \"4.50 PLN\""
+msgstr ""
+
+#: class-wc-hostedSMS-integration.php:255
+msgid "Status 2"
+msgstr ""
+
+#: class-wc-hostedSMS-integration.php:270
+msgid "Status 3"
+msgstr ""
+
+#: class-wc-hostedSMS-integration.php:285
+msgid "Status 4"
+msgstr ""
